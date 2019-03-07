@@ -1,0 +1,12 @@
+E:\Project\SML\SML.Entities\bin\Debug\SML.Entities.dll
+E:\Project\SML\SML.Entities\bin\Debug\SML.Entities.pdb
+E:\Project\SML\SML.Entities\obj\Debug\SML.Entities.csprojAssemblyReference.cache
+E:\Project\SML\SML.Entities\obj\Debug\SML.Entities.csproj.CoreCompileInputs.cache
+E:\Project\SML\SML.Entities\obj\Debug\SML.Entities.dll
+E:\Project\SML\SML.Entities\obj\Debug\SML.Entities.pdb
+D:\SML\SML.Entities\bin\Debug\SML.Entities.dll
+D:\SML\SML.Entities\bin\Debug\SML.Entities.pdb
+D:\SML\SML.Entities\obj\Debug\SML.Entities.csproj.CoreCompileInputs.cache
+D:\SML\SML.Entities\obj\Debug\SML.Entities.dll
+D:\SML\SML.Entities\obj\Debug\SML.Entities.pdb
+D:\SML\SML.Entities\obj\Debug\SML.Entities.csprojAssemblyReference.cache
